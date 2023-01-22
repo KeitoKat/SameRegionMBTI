@@ -1,3 +1,8 @@
+### Acknowledgement: 
+I am grateful to my team for their assistance in making this project possible.
+I'd like to thank Marcella in particular for spending endless work nights with me to debug and finish the project.
+Thank you Josh for coming up with amazing connections to external work, such as "geopsychology".
+
 # SameRegionMBTI (Summary)
 Does where you live have any correlation to your Myers Briggs personality type (MBTI)?
 
