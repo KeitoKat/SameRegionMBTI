@@ -27,9 +27,14 @@ The "card" and "map" features were used to provide a quick summary of the regi
 There appears to be a high correlation between a popular MBTI and the region it is in, depending on which region is observed.
 In the example of Southeast Asia, INFP happens to be the most common personality type in the region, with the exception of Laos.
 
+While most Southeast Asian countries share a similar personality type, users should take into account various factors that may have influenced this.
+Consider Laos and Thailand. The two countries share very similar languages and cultural customs, but have different political views (Ref 3.).
+
+With the given information, users can now dive deeper into politics, for example, to explore the factors that influence the results of this study.
 
 ## What's next?
-This study can dive deeper into the factors that influence the personality types of a region, whether it is geographically or culturally based. It can also look into the relationship between personality types and purchasing behaviors, values, or work ethics, to name a few.
+Users can either study the geographic or cultural reasons behind the correlation of each result or compare the distribution of personality types across all continents. 
+The result can be combined with external sources to study topics such as purchasing behaviors, values, or work ethics, to name a few.
 
 ## Potential application
 - Adding value to the study of demographic trends
@@ -44,3 +49,6 @@ https://bigthink.com/strange-maps/geopsychology-regional-personality-variation/
 
 (Ref 2.) Data set:
 https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full?resource=download
+
+(Ref 3.) Laos vs Thailand:
+https://www.1stopasia.com/blog/lao-and-thai-same-same-but-not-really/
